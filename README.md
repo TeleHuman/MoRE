@@ -123,6 +123,9 @@ python deploy/deploy_mujoco/deploy_mujoco_with_resi.py g1_16dof_resi_moe.yaml
 
 This codebase is under [CC BY-NC 4.0 license](https://creativecommons.org/licenses/by-nc/4.0/deed.en). You may not use the material for commercial purposes, e.g., to make demos to advertise your commercial products.
 
+## Acknowledgements
+We thank [@lsx162534](https://github.com/lsx162534) and [@ChenN-Scott](https://github.com/ChenN-Scott) for their help with the code implementation.
+
 ## 📝 Citation
 
 If you find our work useful, please consider citing:
